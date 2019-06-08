@@ -1,0 +1,22 @@
+{
+  "name": "coding-exercise-timothyjoh",
+  "version": "0.1.0",
+  "description": "parsing game scores for rankings",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbird-studios/coding-exercise-timothyjoh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackbird-studios/coding-exercise-timothyjoh/issues"
+  },
+  "homepage": "https://github.com/blackbird-studios/coding-exercise-timothyjoh#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
